@@ -2,7 +2,7 @@
 
 Hangmoji is a classic hangman game created using Xcode, designed to test your word-guessing skills and vocabulary. With three different difficulty levels, it's perfect for players of all ages and skill levels.
 
-##Demo
+## Demo
 
 
 https://github.com/UnfortunatelyHuman/Hangmoji/assets/101927412/b22dd698-ef02-4a99-b3f9-74f01a8220f0
